@@ -1,8 +1,5 @@
-correction:
- source /export/home/swift/pg2312/env/bin/activate
- 
-Flask Rest Application
-	Features
+Flask Rest Application 
+	Features:
 		- Exposed the Rest Services
 		- Using existing Mysql database 
 		- Using SQLALCHEMY as ORM
